@@ -1,0 +1,10 @@
+C:\Users\denis\source\repos\FractalTest\bin\x86\Debug\FractalTest.exe.config
+C:\Users\denis\source\repos\FractalTest\bin\x86\Debug\FractalTest.exe
+C:\Users\denis\source\repos\FractalTest\bin\x86\Debug\FractalTest.pdb
+C:\Users\denis\source\repos\FractalTest\obj\x86\Debug\FractalTest.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\FractalTest\obj\x86\Debug\FractalTest.Form1.resources
+C:\Users\denis\source\repos\FractalTest\obj\x86\Debug\FractalTest.Properties.Resources.resources
+C:\Users\denis\source\repos\FractalTest\obj\x86\Debug\FractalTest.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\FractalTest\obj\x86\Debug\FractalTest.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\FractalTest\obj\x86\Debug\FractalTest.exe
+C:\Users\denis\source\repos\FractalTest\obj\x86\Debug\FractalTest.pdb
